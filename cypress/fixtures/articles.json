@@ -1,0 +1,32 @@
+{
+    "articles": [
+        {
+            "slug": "Try-to-test slug",
+            "title": "Try to Title!",
+            "description": "Test description",
+            "body": "Test body.",
+            "tagList": [],
+            "createdAt": "2022-12-09T13:46:24.264Z",
+            "updatedAt": "2022-12-09T13:46:24.264Z",
+            "author": {
+                "username": "Angela",
+                "bio": null
+               
+            }
+        },
+        {
+            "slug": "2Try-to-test slug",
+            "title": "Try to Title 2!",
+            "description": "Test description 2",
+            "body": "Test body 2.",
+            "tagList": [],
+            "createdAt": "2022-12-09T13:46:24.264Z",
+            "updatedAt": "2022-12-09T13:46:24.264Z",
+            "author": {
+                "username": "John",
+                "bio": null
+               
+            }
+        }
+    ]
+}
